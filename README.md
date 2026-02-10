@@ -16,6 +16,8 @@ TerrariaPlayerInfo playerInfo = reader.ReadInfo();
 
 To write player file:
 ```cs
+using TerrariaParsers.Player;
+
 using var fileWriteStream = new FileStream(path, FileMode.OpenOrCreate, FileAccess.Write, FileShare.None);
 var writer = new TerrariaPlayerInfoWriter(fileWriteStream);
 writer.WritePlayerInfo(playerInfo);
