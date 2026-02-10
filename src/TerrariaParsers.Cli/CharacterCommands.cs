@@ -1,6 +1,4 @@
-﻿using System.ComponentModel;
-using System.Diagnostics.CodeAnalysis;
-using System.Numerics;
+﻿using System.Diagnostics.CodeAnalysis;
 using ConsoleAppFramework;
 using TerrariaParsers.Player;
 

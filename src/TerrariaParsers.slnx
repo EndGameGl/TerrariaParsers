@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="TerrariaParsers.Cli/TerrariaParsers.Cli.csproj" Id="1843d8fd-fe02-436e-8ff5-2514bf6e2994" />
   <Project Path="TerrariaParsers.Common/TerrariaParsers.Common.csproj" Id="6c207597-0885-46f0-a373-1cf86e418da6" />
-  <Project Path="TerrariaPlayerParser/TerrariaParsers.Player.csproj" />
+  <Project Path="TerrariaParsers.Player/TerrariaParsers.Player.csproj" />
 </Solution>
