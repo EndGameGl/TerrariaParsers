@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+*.csproj.user
+
+/src/TerrariaParsers.Cli/Properties/launchSettings.json
